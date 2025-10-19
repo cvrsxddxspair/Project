@@ -44,6 +44,3 @@
 ## Период проведения
 
 С 01 марта 2025 г. по 21 мая 2025 г.
-pip install -r requirements.txt
-python main.py
-```
